@@ -103,9 +103,13 @@ public class PushSmsService extends Service {
 
         manager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
 
-        notification = new Notification(R.drawable.user_ic, content,
-
-                System.currentTimeMillis());
+        Notification notification = new Notification.Builder(this)
+                .setSmallIcon(R.drawable.user_ic)
+                .setTicker(content)
+                .setWhen(System.currentTimeMillis())
+                .setContentTitle("This is content title")
+                .setContentText("This is content text")
+                .build();
 
         notification.defaults = Notification.DEFAULT_ALL; // 使用默认设置，比如铃声、震动、闪灯
 
@@ -125,17 +129,7 @@ public class PushSmsService extends Service {
 
         intent.putExtra("date", date);
 
-
-
         pi = PendingIntent.getActivity(getApplicationContext(), 0, intent, 0);
-
-
-
-        notification.setLatestEventInfo(getApplicationContext(), number
-
-                + "有新的消息", content, pi);
-
-
 
         // 将消息推送到状态栏
 

@@ -53,7 +53,7 @@ public class Frag_Home extends BaseFragment implements View.OnClickListener {
 
     private ListView health_news_lv;
     private List<Map<String,Object>> mLists=new ArrayList<Map<String,Object>>();
-    
+
     private OptsharepreInterface share;
     private Dialog pb;
     private MyReceiver dataReceiver;
@@ -102,7 +102,7 @@ public class Frag_Home extends BaseFragment implements View.OnClickListener {
 
     private void initTitle() {
         titleBarUtils = (TitleBarUtils) view.findViewById(R.id.titleBar);
-        titleBarUtils.setTitle("医疗助手");
+        titleBarUtils.setTitle("首页");
         titleBarUtils.setLeftImage(R.mipmap.menu);
         titleBarUtils.setRightImageOne(R.mipmap.email);
 
@@ -235,7 +235,7 @@ public class Frag_Home extends BaseFragment implements View.OnClickListener {
 
             o=new OptsharepreInterface(getActivity());
             o.putPres("unmsg",a+"");
-         
+
 
             //处理接收到的内容
 

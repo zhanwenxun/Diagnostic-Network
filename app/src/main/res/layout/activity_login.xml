@@ -23,11 +23,11 @@
         <EditText
             android:id="@+id/et_account"
             android:paddingLeft="10dp"
-            android:hint="用户名/手机号"
+            android:hint="用户名"
             android:background="@drawable/et"
 
             android:singleLine="true"
-            android:text="xiaofan"
+            android:text="zhanwenxun"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 

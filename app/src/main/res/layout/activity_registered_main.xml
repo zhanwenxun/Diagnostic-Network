@@ -29,7 +29,7 @@
                 android:id="@+id/tv_loc"
                 style="@style/personalRelativeLayoutTvSetting"
                 android:layout_toRightOf="@+id/iv_loc"
-                android:text="成都市" />
+                android:text="九江市" />
 
             <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
         </RelativeLayout>
@@ -51,7 +51,7 @@
                 android:id="@+id/tv_hospital"
                 style="@style/personalRelativeLayoutTvSetting"
                 android:layout_toRightOf="@+id/iv_hospital"
-                android:text="成都市华西医院" />
+                android:text="九江市第三人民医院" />
 
             <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
         </RelativeLayout>
@@ -72,7 +72,7 @@
                 android:id="@+id/tv_sjwk"
                 style="@style/personalRelativeLayoutTvSetting"
                 android:layout_toRightOf="@+id/iv_sjwk"
-                android:text="神经外科" />
+                android:text="肿瘤科" />
 
             <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
         </RelativeLayout>
@@ -93,7 +93,7 @@
                 android:id="@+id/tv_date"
                 style="@style/personalRelativeLayoutTvSetting"
                 android:layout_toRightOf="@+id/iv_date"
-                android:text="2016年6月8日" />
+                android:text="2020年5月8日" />
 
             <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
         </RelativeLayout>

@@ -34,7 +34,7 @@
                     android:layout_alignStart="@+id/textView10"
                     android:layout_marginBottom="5dp"
                     android:paddingTop="10dp"
-                    android:text="四川大学华西医院"
+                    android:text="江西省九江市第三人民医院"
                     android:textColor="@color/black"
                     android:textSize="16sp" />
 
@@ -82,7 +82,7 @@
                     android:layout_alignStart="@+id/textView10"
                     android:layout_below="@+id/textView10"
                     android:layout_marginTop="3dp"
-                    android:text="地址：四川省成都市武侯区国学巷37号"
+                    android:text="地址：江西省九江市浔阳区"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView

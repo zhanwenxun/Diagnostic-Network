@@ -12,6 +12,11 @@ import android.view.inputmethod.EditorInfo;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.Volley;
 import com.zxiaofan.yunyi.MyApplication;
 import com.zxiaofan.yunyi.R;
 import com.zxiaofan.yunyi.ServiceAPI;
@@ -21,6 +26,8 @@ import java.util.Map;
 
 import base.BaseActivity;
 import base.OptsharepreInterface;
+import util.Constants;
+import util.IStringRequest;
 import util.JsonUtils;
 import util.TitleBarUtils;
 import util.ToastUtil;
@@ -119,37 +126,38 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener 
     }
 
     private void loginMethod() {
-//        pb = ProgressDialogStyle.createLoadingDialog(this, "正在登录...");
-//        pb.show();
-//        RequestQueue queue = Volley.newRequestQueue(this);
+        pb = ProgressDialogStyle.createLoadingDialog(this, "正在登录...");
+        pb.show();
+        RequestQueue queue = Volley.newRequestQueue(this);
         ServiceAPI api = new ServiceAPI();
          api.login(account, pwd,LoginActivity.this);
-//        IStringRequest requset = new IStringRequest(Request.Method.GET,
-//                Constants.SERVER_ADDRESS+ "login?username="+account+"&password="+pwd,
-//                new Response.Listener<String>() {
-//            @Override
-//            public void onResponse(String response) {
-//                Log.i("aaa",response);
-//                parseLogin(response);
-//                //
-//                pb.dismiss();
-//
-//            }
-//        },
-//                new Response.ErrorListener() {
-//                    @Override
-//                    public void onErrorResponse(VolleyError error) {
-//                        ToastUtil.ToastShow(getBaseContext(),"服务器好像出了点问题",true);
-//                     pb.dismiss();
-//                    }
-//                }
-//        );
+        IStringRequest requset = new IStringRequest(Request.Method.GET,
+                Constants.SERVER_ADDRESS+ "login?username="+account+"&password="+pwd,
+                new Response.Listener<String>() {
+            @Override
+            public void onResponse(String response) {
+                Log.i("aaa",response);
+                parseLogin(response);
+                //
+                pb.dismiss();
+
+            }
+        },
+                new Response.ErrorListener() {
+                    @Override
+                    public void onErrorResponse(VolleyError error) {
+                        ToastUtil.ToastShow(getBaseContext(),"服务器好像出了点问题",true);
+                     pb.dismiss();
+                    }
+                }
+        );
+        ToastUtil.ToastShow(getBaseContext(),"登陆成功",true);
 //        if (result){
 //            ToastUtil.ToastShow(getBaseContext(),"登陆成功",true);
 //        }else {
 //            ToastUtil.ToastShow(getBaseContext(),"登录失败",true);
 //        }
-//        queue.add(requset);
+        queue.add(requset);
     }
 
     private void parseLogin(String response) {
