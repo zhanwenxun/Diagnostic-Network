@@ -1,0 +1,1414 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_a2.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\a2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_jiaohaogenzong.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_jiaohaogenzong.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registered_history.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_registered_history.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_news_fragment.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_news_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_department_item_one_true.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\department_item_one_true.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guide_01.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\guide_01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_registered_history_item_border.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\registered_history_item_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_see_doc_detail_cfd.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_see_doc_detail_cfd.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_bisai.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_bisai.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_01.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_deal_detail.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_deal_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user_02.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\user_02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_registered_submit.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\registered_submit.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_index_my_list2.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\index_my_list2.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_noon.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\btn_noon.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_frag__news.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_frag__news.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_registered_home.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\registered_home.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_zixun_02.jpg.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\zixun_02.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_shouye_03.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\shouye_03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_man.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_user_press.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_user_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading_page.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\loading_page.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_btn_submit.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\login_btn_submit.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_capture_video_normal.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_capture_video_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_page_1.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\page_1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u002.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u002.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user_03.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\user_03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_arrow_right_disable.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\arrow_right_disable.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hui_discount_item_rule_arrow.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\hui_discount_item_rule_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_subscribe_item_text_color.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\subscribe_item_text_color.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_finddoccc.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\finddoccc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guide_02.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\guide_02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_home.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\frag_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_shouye_04.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\shouye_04.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_main.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_index_my_list1.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\index_my_list1.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u011.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u011.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_search_bg.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\btn_search_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_zixun_01.jpg.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\zixun_01.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_a3.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\a3.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person_default.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\person_default.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_call_number_list_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\call_number_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_seclect.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\text_seclect.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u012.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u012.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_user.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_edit_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_menu.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patient_sele_style.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\patient_sele_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_jiaohaogenzong.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\jiaohaogenzong.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_news_list_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\home_news_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u001.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u001.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_jilu_no.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\jilu_no.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_friends_a.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_friends_a.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_btn_register_false.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\login_btn_register_false.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_main_wode.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\main_wode.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jyd_first_detail_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jyd_first_detail_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_shouye_05.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\shouye_05.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u004.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u004.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_medical_navi_list_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\medical_navi_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_footer.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chufang1.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_chufang1.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_record_bg_border_style.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\record_bg_border_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bmob_update_close_bg_normal.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\bmob_update_close_bg_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_bianmi.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_bianmi.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_chufangcha.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\chufangcha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_user.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_my_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_a1.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\a1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_subscribe_no_pressed.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\subscribe_no_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_smmct.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_smmct.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_a_jbzz_view.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\a_jbzz_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_yuyuetime.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\yuyuetime.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fee_detail_child_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\fee_detail_child_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_record_people_bg.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\record_people_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed_back.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_see_doc_detail.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_see_doc_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_rd_03.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\rd_03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_it_keshixinxi.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\it_keshixinxi.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yueyue.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\yueyue.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_dizhi.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\dizhi.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_alert_dialog_progress.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\alert_dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_index_main_1.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\index_main_1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_user.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_add_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_xinji.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_xinji.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_dot.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\dot.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_drug_price.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_drug_price.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_xml.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\toast_xml.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_service_price.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_service_price.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_yiliaofeiyong1.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_yiliaofeiyong1.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_11.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_11.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_man.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\man.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_jianchabaogao.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\jianchabaogao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u014.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u014.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rl_back_press.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\rl_back_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_department_item_one.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\department_item_one.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_chufang2.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_chufang2.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_btn_register.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\login_btn_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yuyueguahao.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yuyueguahao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_et.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\et.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_medical_records.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_medical_records.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_shouye_06.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\shouye_06.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rl_back_press_shape.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\rl_back_press_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_registered_history_list_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\registered_history_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_expert_introduction.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_expert_introduction.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_yaotong.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_yaotong.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_department_registered.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_department_registered.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_home_fuwuxiangmu.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\home_fuwuxiangmu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u2.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u6473.jpg.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u6473.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_page_3.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\page_3.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_user_normal.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_user_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_main_zhuanjia.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\main_zhuanjia.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_expandablelistview_change.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\expandablelistview_change.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_index_home_list4.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\index_home_list4.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deal_detail_btn_style.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\deal_detail_btn_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_report_query_jybg.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_report_query_jybg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_menzhenfei.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\menzhenfei.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_bottom_border.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\main_bottom_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_registered_wdjzr.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\registered_wdjzr.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_message.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_feedback_phone.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\feedback_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_houlongt.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_houlongt.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_arrow_right_up.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\arrow_right_up.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_doc.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_find_doc.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u8.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u8.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u005.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u005.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_see_doc_detail_jcd_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\see_doc_detail_jcd_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_kesou.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_kesou.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_card1.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\card1.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome_guide.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_welcome_guide.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_03.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_rd_04.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\rd_04.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_desk.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-mdpi\\desk.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_clear_normal.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\search_clear_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_girl.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\girl.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_doctoryuyue1.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_doctoryuyue1.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_u005.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\u005.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_page_2.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\page_2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_shouye_01.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\shouye_01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\raw_progress_loading.gif.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\raw\\progress_loading.gif"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_personal_detail.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_personal_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patient_sele_true_style.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\patient_sele_true_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_medical_expenses.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_medical_expenses.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_sousuo1.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\sousuo1.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_findho.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\findho.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_personal_information.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_personal_information.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_guide02.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\guide02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_10.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_10.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_people_head.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\people_head.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_see_doc_detail_jyd.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_see_doc_detail_jyd.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_registered_date.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\registered_date.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_toutong.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_toutong.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_sele.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_sele.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guidance_skip.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\guidance_skip.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_15.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_15.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jyd_detail_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jyd_detail_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_friends_b.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_friends_b.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_home_index.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\home_index.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_hos_card.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_add_hos_card.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deal_detail_btn.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\deal_detail_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_u012.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\u012.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_02.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u3.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u3.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_main_shouye.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\main_shouye.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u013.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u013.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_report_query_jcbg.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_report_query_jcbg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feedback_et_style.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\feedback_et_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_w2.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\w2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registered_success.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_registered_success.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patient_sele_false_style.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\patient_sele_false_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_btn_submit_true.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\login_btn_submit_true.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_registered_ghls.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\registered_ghls.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_homeyuyue.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\homeyuyue.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_shouye_no.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\shouye_no.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_outpatients.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_my_outpatients.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_channel_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\channel_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_myoutpatients_list_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\myoutpatients_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_08.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_08.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in_down.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\anim\\fade_in_down.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_record_ylfy.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\record_ylfy.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_u003.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\u003.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_title.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_desk.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xxxhdpi\\desk.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_procince.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_new_procince.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_u011.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\u011.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_registered_ptmz.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\registered_ptmz.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_radio_sel.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\radio_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_spinner.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_guide01.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\guide01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_index_hoslist1.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\index_hoslist1.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ico_complex.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\ico_complex.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_index_home_list6.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\index_home_list6.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_hospital.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_find_hospital.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_childs.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\childs.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_cha.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\cha.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_seach_clean_history_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\fragment_seach_clean_history_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_medical_navigation.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_medical_navigation.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tesekeshi.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\tesekeshi.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_see_doc_detail_jcd.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_see_doc_detail_jcd.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u5.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_07.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_07.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_clear_pressed.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\search_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_u004.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\u004.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_arrow_right_down.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\arrow_right_down.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_num_btn_style.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\back_num_btn_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_talk.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\frag_talk.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_procince_list_header.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\new_procince_list_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_pup_listview.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\pup_listview.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lv_search_tips_bg.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\lv_search_tips_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_hodaohang.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\hodaohang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_doc_card_lists_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\doc_card_lists_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myphoto.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\myphoto.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_16.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_16.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_gpttnx.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_gpttnx.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_guid_two.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_guid_two.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_subscribe_pressed.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\subscribe_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_14.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_14.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_registered_sjwk.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\registered_sjwk.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_guid_three.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_guid_three.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_index_home_list5.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\index_home_list5.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_06.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_06.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u4.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u4.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_doc_detail.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_find_doc_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_w1.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\w1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_medical_navi_detail.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_medical_navi_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_yuyuedoctor.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_yuyuedoctor.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_tesekeshi.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_tesekeshi.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tracking_station.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_tracking_station.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_no.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_no.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_doctoryuyue.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_doctoryuyue.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u7.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u7.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_u013.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\u013.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_desk.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xxhdpi\\desk.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_09.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_09.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_groups.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\groups.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_home_press.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_home_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zhuanjia.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\zhuanjia.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_special_department.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_special_department.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_guide03.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\guide03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_haoyuan.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_haoyuan.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_unread_messages.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_unread_messages.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_hospital_bg.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\hospital_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_dianhua.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\dianhua.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\raw_mydatastring.txt.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\raw\\mydatastring.txt"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_record_rl_listitem.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\my_record_rl_listitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toast_bg.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_seach_list_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\fragment_seach_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_departmnet_one_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\departmnet_one_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_sele_patient_window.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\sele_patient_window.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_guid_one.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_guid_one.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_findhos.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_findhos.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_talk_head_vew.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\frag_talk_head_vew.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hospital_navigation.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_hospital_navigation.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_jiuzhenren.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_jiuzhenren.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user_no.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\user_no.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_sele_patient_window_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\sele_patient_window_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_jiuyidaohang.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\jiuyidaohang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_layout.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_rd_02.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\rd_02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_table_btn_shape_yes.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\table_btn_shape_yes.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_home_jia.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\home_jia.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_u015.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\u015.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_people_head_mini.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\people_head_mini.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_jilu_sele.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\jilu_sele.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_jbzz.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_jbzz.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_department_information.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_department_information.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_record_mzcf.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\record_mzcf.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registered_main.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_registered_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_girl.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\girl.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_12.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_12.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_view.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_doc_card.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_my_doc_card.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_tianjiajiuzhenren.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\tianjiajiuzhenren.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_04.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_04.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_index_main_2.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\index_main_2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_13.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_13.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_patient_info.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_patient_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_message2.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\message2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u015.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u015.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_hospitals.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\frag_hospitals.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_finddoc.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\finddoc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_btn_submit_false.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\login_btn_submit_false.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_record_yyjl.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\record_yyjl.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_doctor_head.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\doctor_head.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_province.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\main_province.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out_up.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\anim\\fade_out_up.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_addcard.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\addcard.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_desk.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\desk.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_right.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\arrow_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_u001.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\u001.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_info_selector.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\menu_info_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_see_doc_detail_dzbl.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\fragment_see_doc_detail_dzbl.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_rd_01.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\rd_01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_doc1.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\doc1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_radio.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\radio.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_mycard.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_mycard.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_icon.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\search_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u1.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_u014.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\u014.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_registered_loc.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\registered_loc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user_sele.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\user_sele.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guide_03.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\guide_03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registered_detail.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_registered_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left_arrow.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\left_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_hospital_icon.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\hospital_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_cfd_detail_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\cfd_detail_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_record_head.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\record_head.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_delete_bg.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\iv_delete_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_table_border.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\table_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_find_b.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_find_b.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_no_btn.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\back_no_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_user.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\frag_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_table_btn_shape_no.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\table_btn_shape_no.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_u002.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-xhdpi\\u002.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_home_normal.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_home_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_find_a.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\ic_tab_find_a.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main1.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_ic.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\user_ic.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_card.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_my_card.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_email.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\email.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_record_bgcx.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\record_bgcx.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_desk.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\desk.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_department_item_one_false.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\department_item_one_false.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user_head.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\user_head.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_jbzz_zbhgjtt.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\jbzz_zbhgjtt.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user_01.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\user_01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_main_yiyuan.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\main_yiyuan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_news_list.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\home_news_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_report_query.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_report_query.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_dotted_line.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\shape_dotted_line.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jiuyidaohang.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\jiuyidaohang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_drug_price.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\item_drug_price.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yiyuan_05.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\yiyuan_05.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_zixun_no.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\zixun_no.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_member_item.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_group_member_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_userbackground.jpg.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\userbackground.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_main_jilu.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\main_jilu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u6.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u6.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_u003.png.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\mipmap-hdpi\\u003.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_price_search.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\layout\\activity_price_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_edittext_shape.xml.flat",
+        "source": "D:\\AndroidProject\\YunYiAPP\\app\\src\\main\\res\\drawable\\search_edittext_shape.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Sat May 09 19:23:47 CST 2020
+base.0=D\:\\AndroidProject\\YunYiAPP\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
