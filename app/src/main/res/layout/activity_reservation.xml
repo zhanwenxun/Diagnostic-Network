@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".activity.ReservationActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titlebar_height"
+        android:background="@color/colorAccent"
+        app:navigationIcon="@drawable/back">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="选择预约"
+            android:textColor="@color/black"
+            android:textSize="23dp">
+        </TextView>
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/min_city"
+            style="@style/personalRelativeLayoutSetting">
+
+            <ImageView
+                android:id="@+id/iv_loc"
+                style="@style/personalRelativeLayoutIvOneSetting"
+                android:src="@mipmap/registered_loc" />
+
+            <TextView
+                android:id="@+id/tv_loc"
+                style="@style/personalRelativeLayoutTvSetting"
+                android:layout_toRightOf="@+id/iv_loc"
+                android:text="九江市" />
+
+            <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#e4e4e4"/>
+        <RelativeLayout
+            android:id="@+id/min_hospital"
+            style="@style/personalRelativeLayoutSetting">
+
+            <ImageView
+                android:id="@+id/iv_hospital"
+                style="@style/personalRelativeLayoutIvOneSetting"
+                android:src="@mipmap/registered_home" />
+
+            <TextView
+                android:id="@+id/tv_hospital"
+                style="@style/personalRelativeLayoutTvSetting"
+                android:layout_toRightOf="@+id/iv_hospital"
+                android:text="九江市第三人民医院" />
+
+            <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#e4e4e4"/>
+        <RelativeLayout
+            android:id="@+id/min_department"
+            style="@style/personalRelativeLayoutSetting">
+
+            <ImageView
+                android:id="@+id/iv_department"
+                style="@style/personalRelativeLayoutIvOneSetting"
+                android:src="@mipmap/registered_sjwk" />
+
+            <TextView
+                android:id="@+id/tv_department"
+                style="@style/personalRelativeLayoutTvSetting"
+                android:layout_toRightOf="@+id/iv_department"
+                android:text="肿瘤科" />
+
+            <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#e4e4e4"/>
+        <RelativeLayout
+            android:id="@+id/min_date"
+            style="@style/personalRelativeLayoutSetting">
+
+            <ImageView
+                android:id="@+id/iv_date"
+                style="@style/personalRelativeLayoutIvOneSetting"
+                android:src="@mipmap/registered_date" />
+
+            <TextView
+                android:id="@+id/tv_date"
+                style="@style/personalRelativeLayoutTvSetting"
+                android:layout_toRightOf="@+id/iv_date"
+                android:text="2020年5月8日" />
+
+            <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#e4e4e4"/>
+        <RelativeLayout
+            android:id="@+id/min_ptmz"
+            style="@style/personalRelativeLayoutSetting">
+
+            <ImageView
+                android:id="@+id/iv_ptmz"
+                style="@style/personalRelativeLayoutIvOneSetting"
+                android:src="@mipmap/registered_ptmz" />
+
+            <TextView
+                android:id="@+id/tv_ptmz"
+                style="@style/personalRelativeLayoutTvSetting"
+                android:layout_toRightOf="@+id/iv_ptmz"
+                android:text="普通门诊" />
+
+            <ImageView style="@style/personalRelativeLayoutIvTwoSetting" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#e4e4e4"/>
+        <Button
+            android:id="@+id/reservation_submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dp"
+            android:enabled="true"
+            android:background="@drawable/registered_submit"
+            android:text="预  约"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+</LinearLayout>

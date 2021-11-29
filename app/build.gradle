@@ -1,0 +1,78 @@
+import com.google.gson.internal.JavaVersion
+
+apply plugin: 'com.android.application'
+apply plugin: 'com.jakewharton.butterknife'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+
+    compileOptions {
+        sourceCompatibility JavaVersion.majorJavaVersion
+        targetCompatibility JavaVersion.majorJavaVersion
+    }
+
+    defaultConfig {
+        applicationId "com.zhanwenxun.dnapp"
+        minSdkVersion 26
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                includeCompileClasspath = true
+            }
+        }
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    useLibrary 'org.apache.http.legacy'
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    // Bmob所需依赖
+    implementation 'cn.bmob.android:bmob-sdk:3.7.8'
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.8'
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+    implementation 'com.squareup.okhttp3:okhttp:3.14.1'
+    implementation 'com.squareup.okio:okio:2.2.2'
+    implementation 'com.google.code.gson:gson:2.8.5'
+    // Android项目工程所需依赖
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'com.google.android.material:material:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'androidx.navigation:navigation-fragment:2.2.2'
+    implementation 'androidx.navigation:navigation-ui:2.2.2'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    // 其他功能所需依赖
+    implementation 'com.gyf.immersionbar:immersionbar:2.3.1'
+    implementation 'org.xutils:xutils:3.5.0'
+    implementation 'org.litepal.android:core:2.0.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.8.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.8.0'
+    implementation 'com.androidkun:XTabLayout:1.1.4'
+    implementation 'io.reactivex.rxjava2:rxjava:2.0.7'
+    implementation 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    // Butterkinfe所需依赖
+    implementation 'com.jakewharton:butterknife:10.0.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
+    // TensorFlow Lite所需依赖
+    implementation 'org.tensorflow:tensorflow-lite:0.0.0-nightly'
+    implementation files('libs/BaiduLBS_Android.jar')
+}

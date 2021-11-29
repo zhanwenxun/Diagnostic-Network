@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titlebar_height"
+        android:background="@color/colorAccent"
+        app:navigationIcon="@drawable/back">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="我的就诊人"
+            android:textColor="@color/black"
+            android:textSize="23dp">
+        </TextView>
+    </androidx.appcompat.widget.Toolbar>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="15dp"/>
+
+    <include layout="@layout/item_patient"></include>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="15dp"/>
+
+    <include layout="@layout/item_patient"></include>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="15dp"/>
+
+    <include layout="@layout/item_patient"></include>
+
+    <Button
+        android:id="@+id/add_patient"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/login_btn_register"
+        android:text="添加就诊人"
+        android:textColor="@color/white" />
+</LinearLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".activity.ReservationActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titlebar_height"
+        android:background="@color/colorAccent"
+        app:navigationIcon="@drawable/back">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="预约时间表"
+            android:textColor="@color/black"
+            android:textSize="23dp">
+        </TextView>
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:id="@+id/hospital_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:background="#E8FAF1"
+        android:textColor="@color/green"
+        android:paddingLeft="15dp"
+        android:text=""
+        android:textStyle="bold"
+        android:textSize="18dp" />
+
+    <Spinner
+        android:background="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:id="@+id/spinner"
+        android:entries="@array/department"
+        android:layout_gravity="center_horizontal"/>
+
+    <CalendarView
+        android:id="@+id/calendar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:firstDayOfWeek="1"
+        android:minDate="01/01/2020"
+        android:maxDate="12/31/2025"
+        android:focusedMonthDateColor="@color/whitesmoke"/>
+
+    <Button
+        android:id="@+id/choose_reservation"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="预约"
+        android:textSize="20dp"
+        android:background="#B0E0E6"
+        android:layout_gravity="center" />
+
+</LinearLayout>

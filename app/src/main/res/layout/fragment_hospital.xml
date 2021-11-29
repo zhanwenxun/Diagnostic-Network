@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".fragment.HospitalFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titlebar_height"
+        android:background="@color/colorAccent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="医院"
+            android:textColor="@color/black"
+            android:textSize="23dp">
+        </TextView>
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <FrameLayout
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/search_hospital"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="2dp"
+
+
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/search_edittext_shape"
+                android:textSize="18sp"
+                android:imeOptions="actionSearch"
+                android:inputType="text"
+                android:hint="查询医院"/>
+
+            <ImageView
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/search_icon"
+                android:id="@+id/search_in"
+                android:layout_gravity="right|bottom"
+                android:layout_width="34dp"
+                android:layout_height="34dp"/>
+        </FrameLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/hospital_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+    </ListView>
+
+    <com.zhanwenxun.dnapp.view.VerticalScrollView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/hoscard"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp">
+
+                <TextView
+                    android:id="@+id/hos_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/hos_level"
+                    android:layout_alignLeft="@+id/hos_level"
+                    android:layout_alignStart="@+id/hos_level"
+                    android:layout_marginBottom="5dp"
+                    android:paddingTop="10dp"
+                    android:text="九江市第三人民医院"
+                    android:textColor="@color/red"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/hos_level"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginStart="15dp"
+                    android:textColor="@color/black"
+                    android:text="三甲医院"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/hos_city"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/hos_level"
+                    android:layout_marginLeft="20dp"
+                    android:layout_toEndOf="@+id/hos_level"
+                    android:layout_toRightOf="@+id/hos_level"
+                    android:textColor="@color/black"
+                    android:text="九江市"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/hos_tel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/hos_city"
+                    android:layout_marginLeft="20dp"
+                    android:layout_toEndOf="@+id/hos_city"
+                    android:layout_toRightOf="@+id/hos_city"
+                    android:textColor="@color/blue"
+                    android:text="020-XXXX-XXX"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/hos_address"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/hos_level"
+                    android:layout_alignStart="@+id/hos_level"
+                    android:layout_below="@+id/hos_level"
+                    android:layout_marginTop="3dp"
+                    android:text="地址：江西省九江市浔阳区"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="#F2F2F2" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="医院服务"
+                android:textColor="@color/black" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#F2F2F2" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:id="@+id/tab_yuyueguahao">
+
+                <ImageView
+                    android:src="@mipmap/yuyueguahao"
+                    android:layout_width="26dp"
+                    android:layout_height="26dp"
+                    android:id="@+id/image_reservation"
+                    android:scaleType="fitXY"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp" />
+
+                <TextView
+                    android:id="@+id/text_reservation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textSize="16sp"
+                    android:text="预约挂号"
+                    android:textColor="#000000"
+                    android:layout_toRightOf="@+id/image_reservation"
+                    android:layout_toEndOf="@+id/image_reservation"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginStart="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="14sp"
+                    android:text="提前预约本医院就诊，无需排队"
+                    android:id="@+id/textView2"
+                    android:layout_below="@+id/text_reservation"
+                    android:layout_alignLeft="@+id/text_reservation"
+                    android:layout_alignStart="@+id/text_reservation" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#F2F2F2"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:id="@+id/tab_jiuyidaohang">
+
+                <ImageView
+                    android:layout_width="26dp"
+                    android:layout_height="26dp"
+                    android:id="@+id/image_navigation"
+                    android:scaleType="fitXY"
+                    android:src="@mipmap/daohang"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textSize="16sp"
+                    android:text="就医导航"
+                    android:textColor="#000000"
+                    android:id="@+id/text_navigation"
+
+                    android:layout_toRightOf="@+id/image_navigation"
+                    android:layout_toEndOf="@+id/image_navigation"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginStart="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="14sp"
+                    android:text="院内导航，查询收费处，洗手间的位置"
+                    android:id="@+id/textView6"
+                    android:layout_below="@+id/text_navigation"
+                    android:layout_alignLeft="@+id/text_navigation"
+                    android:layout_alignStart="@+id/text_navigation" />
+            </RelativeLayout>
+        </LinearLayout>
+    </com.zhanwenxun.dnapp.view.VerticalScrollView>
+</LinearLayout>

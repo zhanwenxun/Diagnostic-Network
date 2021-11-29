@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="155dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:text="感冒"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:id="@+id/dis_name"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="科室：呼吸科、感染科"
+            android:textColor="#333333"
+            android:textSize="13sp"
+            android:id="@+id/dis_department"
+            android:layout_below="@+id/dis_name"
+            android:layout_alignLeft="@+id/dis_name"
+            android:layout_alignStart="@+id/dis_name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textColor="#333333"
+            android:textSize="13sp"
+            android:text="病因：多由鼻病毒、副流感病毒、呼吸道合胞病毒、埃可病毒、柯萨奇病毒、冠状病毒、腺病毒等引起"
+            android:id="@+id/dis_cause"
+            android:layout_alignStart="@id/dis_department"
+            android:layout_below="@id/dis_department"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:layout_marginTop="5dp"
+            android:textSize="13sp"
+            android:text="症状：咳嗽、咽干、咽痒、咽痛、低热、头痛"
+            android:id="@+id/dis_symptom"
+            android:layout_below="@+id/dis_cause"
+            android:layout_alignStart="@id/dis_cause"/>
+
+        <TextView
+            android:id="@+id/dis_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/dis_symptom"
+            android:layout_marginTop="5dp"
+            android:layout_alignStart="@id/dis_symptom"
+            android:text="感冒是一种常见的急性上呼吸道病毒性感染性疾病。"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+
+    </RelativeLayout>
+
+</LinearLayout>

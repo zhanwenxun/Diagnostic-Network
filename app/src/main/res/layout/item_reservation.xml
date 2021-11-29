@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/registered_history_item_border"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_hospitalName"
+            android:text="解放军总医院第一附属医院"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/red"
+            android:textSize="20dp"/>
+
+        <RelativeLayout
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2019-2-"
+                android:textColor="@color/blue"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/tv_userName"
+                android:textStyle="bold"
+                android:text="王明明"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_date"
+                android:layout_marginTop="10dp"
+                android:textSize="17dp" />
+
+            <TextView
+                android:id="@+id/tv_Department"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="心脏科"
+                android:layout_toRightOf="@+id/tv_userName"
+                android:layout_alignTop="@+id/tv_userName"
+                android:textStyle="bold"
+                android:layout_marginLeft="10dp"
+                android:textSize="17dp"
+                android:textColor="@color/green"/>
+
+            <TextView
+                android:id="@+id/tv_deal_state"
+                android:textStyle="bold"
+                android:text="预约成功"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@+id/tv_userName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="17dp" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_back_no"
+                android:background="@drawable/back_no_btn"
+                android:text="退号"
+                android:layout_alignParentRight="true"
+                android:layout_width="150dp"
+                android:layout_marginLeft="10dp"
+                android:layout_height="35dp" />
+        </RelativeLayout>
+
+    </LinearLayout>
+</LinearLayout>

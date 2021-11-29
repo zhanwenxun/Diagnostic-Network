@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_diagnosis"
+        android:icon="@drawable/ic_diagnosis_black_24dp"
+        android:title="@string/title_diagnosis" />
+
+    <item
+        android:id="@+id/navigation_hospital"
+        android:icon="@drawable/ic_hospital_black_24dp"
+        android:title="@string/title_hospital" />
+
+    <item
+        android:id="@+id/navigation_doctor"
+        android:icon="@drawable/ic_doctor_black_24dp"
+        android:title="@string/title_doctor" />
+
+    <item
+        android:id="@+id/navigation_medicine"
+        android:icon="@drawable/ic_medicine_black_24dp"
+        android:title="@string/title_medicine" />
+
+    <item
+        android:id="@+id/navigation_my"
+        android:icon="@drawable/ic_my_black_24dp"
+        android:title="@string/title_my" />
+
+</menu>

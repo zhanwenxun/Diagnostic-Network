@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="5dp"
+        android:descendantFocusability="blocksDescendants">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:text="西药"
+            android:id="@+id/med_type"
+            android:textColor="#333333"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_marginLeft="10dp"
+            android:text="100片/瓶"
+            android:textColor="#333333"
+            android:id="@+id/med_format"
+            android:layout_alignBottom="@+id/med_type"
+            android:layout_toRightOf="@+id/med_type"
+            android:layout_toEndOf="@+id/med_type" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginLeft="20dp"
+            android:text="12.48"
+            android:id="@+id/med_price"
+            android:textColor="@color/red"
+            android:layout_alignBottom="@+id/med_format"
+            android:layout_toEndOf="@+id/med_format" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/med_price"
+            android:textColor="@color/red"
+            android:textSize="20sp"
+            android:text="元"
+            android:layout_alignTop="@+id/med_price"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="复方颗粒"
+            android:textSize="20sp"
+            android:layout_marginBottom="2dp"
+            android:textColor="#333333"
+            android:id="@+id/med_name"
+            android:layout_above="@+id/med_type"
+            android:layout_alignLeft="@+id/med_type"
+            android:layout_alignStart="@+id/med_type" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:text="通用名：复方片"
+            android:textColor="#333333"
+            android:id="@+id/med_producter"
+            android:layout_below="@+id/med_type"
+            android:layout_alignLeft="@+id/med_type"
+            android:layout_alignStart="@+id/med_type" />
+
+        <ImageView
+            android:id="@+id/med_img"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/medicine"
+            android:layout_alignParentRight="true"/>
+
+        <Button
+            android:id="@+id/med_add"
+            android:layout_alignBottom="@id/med_img"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/add_plus"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp"
+            android:layout_width="35dp"
+            android:layout_height="35dp" />
+    </RelativeLayout>
+
+</LinearLayout>

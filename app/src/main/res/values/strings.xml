@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">诊断网</string>
+
+    <string name="title_diagnosis">诊断</string>
+    <string name="title_hospital">医院</string>
+    <string name="title_doctor">医生</string>
+    <string name="title_medicine">药品</string>
+    <string name="title_my">我的</string>
+</resources>

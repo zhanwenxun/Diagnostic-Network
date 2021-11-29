@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".activity.MyTreatmentActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titlebar_height"
+        android:background="@color/colorAccent"
+        app:navigationIcon="@drawable/back">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="医患交流"
+            android:textColor="@color/black"
+            android:textSize="23dp">
+        </TextView>
+    </androidx.appcompat.widget.Toolbar>
+
+    <RelativeLayout
+        android:background="@drawable/et"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+        <View
+            android:layout_width="2dp"
+            android:background="#F2F2F2"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:text="王明明"
+            android:textColor="#000000"
+            android:id="@+id/patient_name"
+            android:layout_gravity="center_vertical"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="19dp"
+            android:layout_marginStart="19dp" />
+        <View
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="#F2F2F2"
+            android:id="@+id/view2"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/patient_name"
+            android:layout_toEndOf="@+id/patient_name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="女"
+
+            android:id="@+id/patient_sex"
+            android:textColor="#333333"
+            android:layout_above="@+id/patient_name"
+            android:layout_toRightOf="@+id/view2"
+            android:layout_toEndOf="@+id/view2"
+            android:layout_marginLeft="23dp"
+            android:layout_marginStart="23dp" />
+
+        <TextView
+            android:id="@+id/phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:layout_marginTop="3dp"
+            android:text="手机号："
+            android:layout_alignTop="@+id/patient_name"
+            android:layout_alignStart="@+id/patient_sex" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="13699083006"
+            android:layout_marginTop="3dp"
+            android:textColor="#333333"
+            android:id="@+id/patient_phone"
+            android:layout_toRightOf="@+id/phone"
+            android:layout_alignTop="@+id/patient_name" />
+
+        <TextView
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:layout_marginTop="3dp"
+            android:text="邮箱："
+            android:layout_below="@id/phone"
+            android:layout_alignStart="@+id/patient_sex" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_marginTop="3dp"
+            android:text="110110110110110110"
+            android:textColor="#333333"
+            android:id="@+id/patinet_email"
+            android:layout_below="@+id/patient_phone"
+            android:layout_toRightOf="@id/email"
+            android:layout_marginLeft="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="29"
+            android:layout_marginLeft="20dp"
+            android:textColor="#333333"
+            android:id="@+id/patient_age"
+            android:layout_alignBottom="@+id/patient_sex"
+            android:layout_toRightOf="@+id/patient_sex"
+            android:layout_toEndOf="@+id/patient_sex" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#ffffff"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal">
+        <EditText
+            android:id="@+id/et_contact"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/feedback_et_style"
+            android:gravity="top"
+            android:hint="请填写你需要对患者说的话。"
+            />
+    </RelativeLayout>
+    <Button
+        android:id="@+id/contact_submit"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/login_btn_register"
+        android:textColor="#ffffff"
+        android:text="发送"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        />
+</LinearLayout>

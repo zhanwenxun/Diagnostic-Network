@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="department">
+        <item>选择科室▼</item>
+        <item>妇产科</item>
+        <item>儿科</item>
+        <item>外科</item>
+        <item>内科</item>
+        <item>放射科</item>
+        <item>口腔科</item>
+        <item>神经科</item>
+        <item>五官科</item>
+    </string-array>
+
+    <string-array name="sex">
+        <item>选择性别▼</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+
+    <string-array name="age">
+        <item>选择年龄▼</item>
+        <item>0-9</item>
+        <item>10-19</item>
+        <item>20-24</item>
+        <item>25-59</item>
+        <item>60+</item>
+    </string-array>
+</resources>

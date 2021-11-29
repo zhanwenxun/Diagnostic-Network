@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.MedicineFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titlebar_height"
+        android:background="@color/colorAccent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="药品"
+            android:textColor="@color/black"
+            android:textSize="23dp">
+        </TextView>
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/search_medicine"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="2dp"
+
+
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/search_edittext_shape"
+                android:textSize="18sp"
+                android:imeOptions="actionSearch"
+                android:inputType="text"
+                android:hint="查询药品"/>
+
+            <ImageView
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/search_icon"
+                android:id="@+id/search_in"
+                android:layout_gravity="right|bottom"
+                android:layout_width="34dp"
+                android:layout_height="34dp"/>
+        </FrameLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/medicine_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    </ListView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/gray"/>
+
+    <LinearLayout
+        android:id="@+id/rl_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#00FF7F">
+
+        <TextView
+            android:id="@+id/tv_total_price"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_marginRight="50dp"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:text="合计: 0.0"
+            android:textSize="20dp"
+            android:textColor="@color/red" />
+        <Button
+            android:id="@+id/bt_total_num"
+            android:layout_width="120dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@color/purple"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:text="结算(0)"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</LinearLayout>

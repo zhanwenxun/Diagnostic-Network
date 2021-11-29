@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zhanwenxun.dnapp"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <!-- 百度地图API所需权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <!-- 访问精确位置的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 这个权限用于进行网络定位-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口-->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- Bmob云端数据库所需权限 -->
+    <!--允许联网 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--获取GSM（2g）、WCDMA（联通3g）等网络状态的信息  -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!--获取wifi网络状态的信息 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!--保持CPU 运转，屏幕和键盘灯有可能是关闭的,用于文件上传和下载 -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!--获取sd卡写的权限，用于文件上传和下载-->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!--允许读取手机状态 用于创建BmobInstallation-->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 个人信息模块的Activity -->
+        <activity android:name=".activity.UserInfoActivity"></activity>
+        <activity android:name=".activity.ForgetActivity"></activity>
+        <activity android:name=".activity.LoginActivity"></activity>
+        <activity android:name=".activity.AboutActivity"></activity>
+        <activity android:name=".activity.RegisterActivity"></activity>
+        <activity android:name=".activity.ResetpwdActivity"></activity>
+        <activity android:name=".activity.NotificationActivity"></activity>
+        <activity android:name=".activity.MyReservationActivity"></activity>
+        <activity android:name=".activity.MyTreatmentActivity"></activity>
+        <activity android:name=".activity.FeedbackActivity"></activity>
+        <activity android:name=".activity.MyOrderActivity"></activity>
+
+        <!-- 药品购买配送模块的Activity -->
+
+        <!-- 医生服务模块的Activity -->
+        <activity android:name=".activity.TreatmentActivity"></activity>
+        <activity android:name=".activity.PatientContactActivity"></activity>
+
+        <!-- 医院服务模块的Acitivity -->
+        <activity android:name=".activity.NavigationActivity"></activity>
+        <activity android:name=".activity.ReservationActivity"></activity>
+        <activity android:name=".activity.ReservationChooseActivity"></activity>
+        <activity android:name=".activity.ReservationConfirmActivity"></activity>
+        <activity android:name=".activity.ReservationSuccessActivity"></activity>
+
+        <!-- 医疗诊断模块的Activity -->
+        <activity android:name=".activity.NewsActivity"/>
+        <activity android:name=".activity.SelfDiagnosisActivity"/>
+        <activity android:name=".activity.InfectedActivity"/>
+        <activity android:name=".activity.NotInfectedActivity"/>
+
+        <!-- 百度地图key -->
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="glBjck3dUDcAa9cHGrslZt6VqXpoeGG9" />
+
+        <!-- 定义Bmob的ContentProvider -->
+        <provider
+            android:name="cn.bmob.v3.util.BmobContentProvider"
+            android:authorities="com.zhanwenxun.dnapp.BmobContentProvider">
+        </provider>
+    </application>
+</manifest>

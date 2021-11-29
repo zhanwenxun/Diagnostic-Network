@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="table_col_border">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/table_border</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="personalRelativeLayoutSetting">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/parent_expandable_list_height</item>
+        <item name="android:padding">@dimen/margin</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="personalRelativeLayoutIvOneSetting">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginLeft">15dp</item>
+    </style>
+
+    <style name="personalRelativeLayoutTvSetting">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:textSize">@dimen/list_below</item>
+    </style>
+
+    <style name="personalRelativeLayoutIvTwoSetting">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+
+</resources>

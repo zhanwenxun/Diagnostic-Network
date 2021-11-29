@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="com.zhanwenxun.dnapp.activity.SelfDiagnosisActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titlebar_height"
+        android:background="@color/colorAccent"
+        app:navigationIcon="@drawable/back">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="新冠肺炎自诊"
+            android:textColor="@color/black"
+            android:textSize="23dp">
+        </TextView>
+    </androidx.appcompat.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:id="@+id/choose_sex"
+            android:entries="@array/sex"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="20dp" />
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:id="@+id/choose_age"
+            android:entries="@array/age"
+            android:layout_alignParentRight="true"
+            android:layout_margin="20dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="勾选您所出现的症状："
+            android:layout_marginLeft="100dp"
+            android:textStyle="bold"
+            android:textColor="@color/blue"
+            android:textSize="20dp"/>
+        
+        <CheckBox
+            android:id="@+id/fever"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="125dp"
+            android:layout_marginTop="50dp"
+            android:text="发烧"
+            android:textSize="30dp"/>
+
+        <CheckBox
+            android:id="@+id/tired"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/fever"
+            android:layout_alignStart="@+id/fever"
+            android:layout_marginTop="20dp"
+            android:text="身体疲惫"
+            android:textSize="30dp"/>
+
+        <CheckBox
+            android:id="@+id/cough"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tired"
+            android:layout_alignStart="@+id/tired"
+            android:layout_marginTop="20dp"
+            android:text="干咳"
+            android:textSize="30dp"/>
+
+        <CheckBox
+            android:id="@+id/diffbreath"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cough"
+            android:layout_alignStart="@+id/cough"
+            android:layout_marginTop="20dp"
+            android:text="呼吸困难"
+            android:textSize="30dp"/>
+
+        <CheckBox
+            android:id="@+id/sorethroat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/diffbreath"
+            android:layout_alignStart="@+id/diffbreath"
+            android:layout_marginTop="20dp"
+            android:text="喉咙痛"
+            android:textSize="30dp"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/diagnosis_bt"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/sp_21"
+        android:background="@drawable/green_button_bg"
+        android:layout_marginLeft="@dimen/dp_36"
+        android:layout_marginRight="@dimen/dp_36"
+        android:layout_marginTop="@dimen/dp_30"
+        android:text="提交诊断"
+        android:layout_gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content" />
+</LinearLayout>

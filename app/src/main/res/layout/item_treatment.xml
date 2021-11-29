@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="慢性阑尾炎"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:id="@+id/tv_diseaseName"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="14dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="占文勋"
+            android:textSize="16sp"
+            android:textColor="@color/red"
+            android:id="@+id/tv_userName"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_below="@id/tv_diseaseName" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="张三"
+            android:textSize="16sp"
+            android:id="@+id/tv_doctorName"
+            android:layout_alignTop="@id/tv_userName"
+            android:layout_toRightOf="@+id/tv_userName"
+            android:layout_marginLeft="30dp"
+            android:textColor="@color/green"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="中国人民解放军医院"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:textColor="#333333"
+            android:id="@+id/tv_hospitalname"
+            android:layout_below="@+id/tv_userName"
+            android:layout_alignLeft="@+id/tv_userName"
+            android:layout_alignStart="@+id/tv_userName" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="普通外科"
+            android:textStyle="bold"
+            android:textColor="#333333"
+            android:id="@+id/department"
+            android:layout_alignTop="@+id/tv_hospitalname"
+            android:layout_alignBottom="@+id/tv_hospitalname"
+            android:layout_toRightOf="@+id/tv_hospitalname"
+            android:layout_toEndOf="@+id/tv_hospitalname"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="2015-09-24"
+            android:id="@+id/tv_Date"
+            android:layout_marginRight="60dp"
+            android:layout_alignTop="@id/tv_diseaseName"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="@color/blue"
+            android:textSize="17dp"/>
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/imageView12"
+            android:src="@drawable/hui_discount_item_rule_arrow"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+
+</LinearLayout>
